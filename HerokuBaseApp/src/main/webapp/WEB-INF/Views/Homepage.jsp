@@ -5,10 +5,12 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>OxygenJunkies</title>
+<%@ include file="Header.jsp" %>
 </head>
 <body>
-<p>helloworld</p>
-<%@ include file="Header.jsp" %>
+<%@ include file="Navigation.jsp" %>
+<div class="separator"></div>
+<%@ include file="Carousel.jsp" %>
 <%@ include file="Footer.jsp" %>
 </body>
 </html>
