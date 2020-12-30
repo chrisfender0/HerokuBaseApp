@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>OxygenJunkies</title>
 </head>
 <body>
-
+<p>helloworld</p>
+<%@ include file="Header.jsp" %>
+<%@ include file="Footer.jsp" %>
 </body>
 </html>

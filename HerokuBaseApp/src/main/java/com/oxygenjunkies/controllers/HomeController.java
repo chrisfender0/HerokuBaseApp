@@ -9,6 +9,7 @@ public class HomeController {
 
 	@RequestMapping(value={"", "/", "home"})
 	public ModelAndView goHome(ModelAndView mv) {
+		System.out.println("hit home page");
 		mv.setViewName("Homepage");
 		return mv;
 	}
