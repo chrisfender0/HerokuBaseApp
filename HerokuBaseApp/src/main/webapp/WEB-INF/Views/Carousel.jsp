@@ -12,23 +12,23 @@
 	  </ol>
 	  <div class="carousel-inner">
 	    <div class="carousel-item active">
-	      <img class="d-block w-100" src="/images/Slide 1.png" alt="First slide">
+	      <img class="d-block w-100" src="/images/Slide_1.png" alt="First slide">
 	      <div class="carousel-caption">
-	      	<h3><a href="https://chrisfender0.github.io/TacomaParks.html">Tacoma Parks</a></h3>
+	      	<h3><a href="https://chrisfender0.github.io/TacomaParks.html" target="_blank">Tacoma Parks</a></h3>
 	        <p>A fun showcase of a few local parks</p>
 	      </div>
 	    </div>
 	    <div class="carousel-item">
-    	  <img class="d-block w-100" src="/images/Slide 2.png" alt="Second slide">
+    	  <img class="d-block w-100" src="/images/Slide_2.png" alt="Second slide">
 	      <div class="carousel-caption">
-	      	<h3><a href="https://www.instructables.com/member/chrisfender0/">Food</a></h3>
-	        <p>Great homemade recipes, tried and tested</p>
+	      	<h3><a href="https://www.instructables.com/member/chrisfender0/" target="_blank">Food</a></h3>
+	        <p id="caption2">Great homemade recipes, tried and tested</p>
 	      </div>
 	    </div>
 	    <div class="carousel-item">
-	      <img class="d-block w-100" src="/images/Slide 3.png" alt="Third slide">
+	      <img class="d-block w-100" src="/images/Slide_3.png" alt="Third slide">
 	      <div class="carousel-caption">
-	      	<h3><a href="https://www.youtube.com/user/olyloleah/videos?view_as=subscriber">Music</a></h3>
+	      	<h3><a href="https://www.youtube.com/user/olyloleah/videos?view_as=subscriber" target="_blank">Music</a></h3>
 	        <p>From rock to electronic music, checkout my jams !</p>
 	      </div>
 	    </div>

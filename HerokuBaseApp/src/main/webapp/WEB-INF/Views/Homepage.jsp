@@ -11,6 +11,7 @@
 <%@ include file="Navigation.jsp" %>
 <div class="separator"></div>
 <%@ include file="Carousel.jsp" %>
+<div class="separator"></div>
 <%@ include file="Footer.jsp" %>
 </body>
 </html>
