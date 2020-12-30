@@ -13,7 +13,6 @@
 <link rel="stylesheet" href="stylesheets/navbar.css" />
 <link rel="stylesheet" href="stylesheets/carousel.css" />
 <link rel="stylesheet" href="stylesheets/footer.css" />
+<link rel="stylesheet" href="stylesheets/portfolio.css" />
 <!-- Icon -->
-<link rel = "icon" href =  
-"/images/logo.png" 
-        type = "image/x-icon">
+<link rel="icon" href="/images/logo.png" type="image/x-icon">

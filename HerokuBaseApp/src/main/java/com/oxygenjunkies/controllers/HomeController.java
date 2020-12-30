@@ -13,4 +13,10 @@ public class HomeController {
 		return mv;
 	}
 	
+	@RequestMapping(value={"portfolio"})
+	public ModelAndView goPortfolio(ModelAndView mv) {
+		mv.setViewName("Portfolio");
+		return mv;
+	}
+	
 }
